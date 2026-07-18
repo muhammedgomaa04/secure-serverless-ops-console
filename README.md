@@ -4,7 +4,7 @@
 <p align="center">
     <img src="./screenshots/sec-tasks-architecture.png" width="100%" alt="SEC//TASKS AWS Architecture">
 </p>
----
+
 
 A production-grade **Zero-Trust Serverless Security Operations Console** built entirely on Amazon Web Services (AWS).
 
