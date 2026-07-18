@@ -2,7 +2,7 @@
 ### Secure Serverless Task & Incident Management System
 ---
 <p align="center">
-    <img src="./screenshots/sec-tasks-architecture.png" width="100%" alt="SEC//TASKS AWS Architecture">
+    <img src="./screenshots/cover.png" width="100%" alt="SEC//TASKS AWS Architecture">
 </p>
 
 ---
