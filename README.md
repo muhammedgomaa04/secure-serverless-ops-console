@@ -1,11 +1,8 @@
 # 🛡️ SEC//TASKS
 ### Secure Serverless Task & Incident Management System
----
 <p align="center">
     <img src="./screenshots/cover.png" width="100%" alt="SEC//TASKS AWS Architecture">
 </p>
-
----
 
 <p align="center">
 
