@@ -16,17 +16,7 @@ Unlike a typical CRUD project, this application was intentionally engineered usi
 
 <p align="center">
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-success?style=for-the-badge)](https://d1u1vfbs03w6e1.cloudfront.net)
-
-![AWS](https://img.shields.io/badge/AWS-Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Security](https://img.shields.io/badge/Security-Zero_Trust-red?style=for-the-badge)
-
-![Node.js](https://img.shields.io/badge/Node.js-24-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-4053D6?style=for-the-badge)
-
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-success?style=for-the-badge)](https://d1u1vfbs03w6e1.cloudfront.net) ![AWS](https://img.shields.io/badge/AWS-Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Security](https://img.shields.io/badge/Security-Zero_Trust-red?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-24-339933?style=for-the-badge&logo=node.js&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-4053D6?style=for-the-badge)
 
 </p>
 
