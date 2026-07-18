@@ -5,13 +5,6 @@
     <img src="./screenshots/sec-tasks-architecture.png" width="100%" alt="SEC//TASKS AWS Architecture">
 </p>
 
-
-A production-grade **Zero-Trust Serverless Security Operations Console** built entirely on Amazon Web Services (AWS).
-
-SEC//TASKS is a security-focused cloud application that demonstrates how modern AWS managed services can be combined to build a highly secure, scalable, and production-inspired serverless system without provisioning or managing any traditional servers.
-
-Unlike a typical CRUD project, this application was intentionally engineered using **Security-by-Design**, **Defense-in-Depth**, and **Zero Trust** principles from the very beginning.
-
 ---
 
 <p align="center">
@@ -19,6 +12,14 @@ Unlike a typical CRUD project, this application was intentionally engineered usi
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-success?style=for-the-badge)](https://d1u1vfbs03w6e1.cloudfront.net) ![AWS](https://img.shields.io/badge/AWS-Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Security](https://img.shields.io/badge/Security-Zero_Trust-red?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-24-339933?style=for-the-badge&logo=node.js&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-4053D6?style=for-the-badge)
 
 </p>
+
+---
+
+A production-grade **Zero-Trust Serverless Security Operations Console** built entirely on Amazon Web Services (AWS).
+
+SEC//TASKS is a security-focused cloud application that demonstrates how modern AWS managed services can be combined to build a highly secure, scalable, and production-inspired serverless system without provisioning or managing any traditional servers.
+
+Unlike a typical CRUD project, this application was intentionally engineered using **Security-by-Design**, **Defense-in-Depth**, and **Zero Trust** principles from the very beginning.
 
 ---
 
